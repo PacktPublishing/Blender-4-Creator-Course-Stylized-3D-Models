@@ -1,16 +1,13 @@
 # Blender-4-Creator-Course-Stylized-3D-Models
 Blender 4 Creator Course Stylized 3D Models, by Packt Publishing
 
-Please follow the steps to download the code files from the resources because downloading the zipped resources from GitHub directly will corrupt the files.
+To properly download code files from a Git LFS-updated repository without corrupting the files, please follow these straightforward steps:
 
-1)	Please download the GitHub Desktop app and login using the GitHub User Id and Password
-https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs
+1) Download and install the GitHub Desktop app from this link:
+   https://desktop.github.com/?ref_cta=download+desktop&ref_loc=installing+github+desktop&ref_page=docs. Open the application and sign in with your GitHub credentials.
+2) In the GitHub Desktop app, navigate to "File" -> "Clone Repository."
+3) In the dialog that appears, paste the URL of the repository you wish to clone into the "URL" field. Below, choose a location on your local drive where you'd like to store the repository files and click "Clone."
+4) After cloning completes, a confirmation message will appear. Click "Show in Explorer" (or "Show in Finder" for Mac) to open the folder containing the cloned repository on your computer.
+5) Inside this local repository folder, you should find the code files. If the files are compressed (zipped), you may use a tool like 7Zip (downloadable from https://www.7-zip.org/) to extract them.
 
-2)	Go to File -> Clone Repository
- 
-3)	Enter the URL of the repository you want to clone and specify the path in the local drive and hit clone
- 
-4)	Once the cloning is complete, you will get the below window and then click on show in explorer
- 
-5)	It will take you to the local repository on your system where you can find the code files. If they are zipped you can use 7Zip to unzip them.
-
+This method ensures that you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
