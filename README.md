@@ -11,3 +11,6 @@ To properly download code files from a Git LFS-updated repository without corrup
 5) Inside this local repository folder, you should find the code files. If the files are compressed (zipped), you may use a tool like 7Zip (downloadable from https://www.7-zip.org/) to extract them.
 
 This method ensures that you get an exact copy of the repository, including all files handled by Git LFS, ready for use on your system.
+Access Your Full Course Resources and Materials!
+To get the most out of your learning experience, visit the link below to access all course resources, downloadable materials, and bonus content: https://packt.link/bPHBn
+Everything you need to follow along, practice, and deepen your understanding is just one click away!
